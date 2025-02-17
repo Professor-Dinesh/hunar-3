@@ -1,0 +1,5 @@
+[
+    { "id": 1, "title": "Money Heist", "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.", "thumbnail": "MoneyHeist.jpg", "video": "videoplayback.mp4" },
+    { "id": 2, "title": "Cobra Kai", "description": "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again.", "thumbnail": "Cobra_kai_season_5.jpg", "video": "Cobra kai.mp4" },
+    { "id": 3, "title": "Stranger Things", "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.", "thumbnail": "87689611dba0513377957cf3c124c43d.jpg", "video": "Stranger things.mp4" }
+]
